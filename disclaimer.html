@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A layout example that shows off a blog page with a list of posts.">
+
+    <title>LeadTrader &ndash; Demo<</title>
+
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.3.0/pure-min.css">
+<link rel="stylesheet" href="css/layouts/index.css">
+
+</head>
+<body>
+<div id="layout">
+    <!-- Menu toggle -->
+    <a href="#menu" id="menuLink" class="menu-link">
+        <!-- Hamburger icon -->
+        <span></span>
+    </a>
+
+    <div id="menu">
+        <div class="pure-menu pure-menu-open">
+            <a class="pure-menu-heading">Lead Trader</a>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="aboutus.html">About</a></li>
+                
+                <li><a href="performance.html">Performance</a></li>
+                <li><a href="pricing.html">Products</a></li>
+                <li><a href="dittotrade.html">Ditto Trade</a></li>
+                <li><a href="dittotrade.html">Setup</a></li>
+                <li><a href="dittotrade.html">FAQ</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="blog.html">Share</a></li>
+                <li><a href="contactus.html">Contact</a></li>
+                <li class="pure-menu-selected menu-item-divided"><a href="disclaimer.html">Disclaimer</a></li>
+                <li class="menu-item-divided">
+                    <a href="http://yui.github.io/skinbuilder/?mode=pure">...</a>
+                </li>
+                <li><a href="http://yuilibrary.com/">...</a></li>
+            </ul>
+        </div>
+    </div>
+
+<!-- ************ inserted from home.html ***************** -->
+
+
+    <div class="pure-u-1">
+        <div class="content">
+            <!-- A wrapper for all the blog posts -->
+            <div class="posts">
+                <h1 class="content-subhead-disclaimer">Lead Trader Disclaimer</h1>
+
+                <!-- A single blog post -->
+                <section class="post">
+                    <header class="post-header">
+                        <!--g class="post-avatar" alt="Tilo Mitra&#x27;s avatar" height="48" width="48" src="img/common/tilo-avatar.png">-->
+
+                        <h2 class="post-title">Limitation of Liability</h2>
+
+                        <p class="post-meta">
+                            By <a href="#" class="post-author">Lead Trader </a> under <a class="post-category post-category-design" href="#">Disclaimer</a> <a class="post-category post-category-pure" href="#">Statement</a>
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>You must read this disclaimer in its entirety prior to becoming a member of our site. By joining this site, you have agreed that you have read and understood this disclaimer. Be advised that LeadTrader.com is not recognized nor registered as an Investment Advisor or Broker/Dealer in any state, field, or lawful jurisdiction whatsoever. LeadTrader.com relies upon the “publisher’s exclusion” from the definition of “investment adviser” as provided under Section 202(a)(11) of the Investment Advisers Act of 1940 and corresponding state securities laws. To the extent any of the content published on the website including e-mail transmissions, faxes, recorded voice messages, and any other associated messages/media (hereinafter collectively referred to as “Information”) may be deemed to be investment advice, such information is impersonal and not tailored to the investment needs of any specific person. The information contained within this Web site, including e-mail transmissions, faxes, recorded voice messages, and any other associated messages/media (hereinafter collectively referred to as “Information”) is provided for informational and educational purposes only. The Information should not be construed as investment/trading advice and is not meant to be a solicitation regarding any securities mentioned.</p>
+<p>Release of Liability: Site members should always pursue their own research and use due diligence prior to making any investment decision. It is also recommended that users obtain professional advice before the purchase or sale of any security. LeadTrader.com and its affiliates will not be held liable for any loss or damage caused by interpretation of information obtained in any content offered by this site or via communication through our email alerts be they members or otherwise. The editor and publisher are not responsible for any errors, omissions or misnomers. By joining and using this website to view its content, the user agrees to hold harmless LeadTrader.com, its operators, owners and employees and to completely release them from any and all liability including, but not limited to, any and all loss (whether monetary or otherwise), any damages (whether monetary or otherwise), or injury (whether monetary or otherwise) that you may incur may it be direct, indirect, or otherwise. The success rates illustrated on this site are not a guarantee for future performance of our method.</p>
+<p>LeadTrader.com receives no compensation of any kind from any companies that may be mentioned in our newsletters or whose stock is tracked on our site. However, LeadTrader.com may provide hyperlinks to third party websites or access to third party content for compensation. LeadTrader.com does not control, endorse, or guarantee content found in any such sites. You agree that LeadTrader.com and its affiliates are not responsible for any content, associated links, resources, or services associated with any third party site. LeadTrader.com shall not be held liable for any loss or damage of any sort associated with your use of any third party content. LeadTrader.com owners, employees and writers may hold positions in the securities that are discussed in our newsletters or on our web site. LeadTrader.com does utilize its own methods of buying and selling stocks.</p>
+<p>Subscribers of this service are advised that the device’s trade signals are a publication of trading conducted by the device, and are not intended as investment advice or a solicitation or recommendation to purchase, sell or hold any security or market position.  All statements and expressions are the opinions of this service and are subject to change without notice. All subscribers are urged to conduct through research relevant to their trading decisions and verify facts from various independent sources.  This service is not to be held responsible for individual market positions, and all trades that subscribers enter into are based on their own considered decisions.  This device is not an affiliate of Ditto Trade.</p>
+                    </div>
+                </section>
+        
+
+
+            <footer class="footer">
+                <div class="pure-menu pure-menu-horizontal pure-menu-open">
+                    <ul>
+                        <li><a href="http://purecss.io/">About</a></li>
+                        <li><a href="http://twitter.com/yuilibrary/">Twitter</a></li>
+                        <li><a href="http://github.com/yui/pure/">Github</a></li>
+                    </ul>
+                </div>
+            </footer>
+        </div>
+    </div>
+</div>
+
+<script src="http://yui.yahooapis.com/3.12.0/build/yui/yui.js"></script>
+<script>
+YUI().use('node-base', 'node-event-delegate', function (Y) {
+    // This just makes sure that the href="#" attached to the <a> elements
+    // don't scroll you back up the page.
+    Y.one('body').delegate('click', function (e) {
+        e.preventDefault();
+    }, 'a[href="#"]');
+});
+</script>
+
+
+
+
+
+</body>
+</html>
