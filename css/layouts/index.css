@@ -421,7 +421,10 @@ small screens.
             margin-top: 0.6em;
         }
 
-
+/*************  Button    *************/
+.pure-button-xlarge {
+  font-size: 125%;
+}
 /*************  MODAL CSS *************/
 
 .modal-backdrop {
