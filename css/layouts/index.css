@@ -58,7 +58,7 @@ This ish
         */
         #menu .pure-menu li a:hover,
         #menu .pure-menu li a:focus {
-            border: 2px solid #28213D;
+            border: 1px solid #28213D;
             color: #18213d;
             text-decoration: none;
         }
@@ -109,7 +109,7 @@ a {
      margin: 0;
      color: #18213d;
      text-align: center;
-     padding: 2em 2em 0;
+     padding: 2em 3em 0;
      border-bottom: 1px solid #ddd;
  }
     .header h1 {

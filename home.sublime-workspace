@@ -1,0 +1,1421 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"Text",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"p",
+				"pad	padding"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"contain",
+				"contain-to-grid"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bd",
+				"BDB88D"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"A",
+				"Anonymous"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"did",
+				"DidactGothicRegular"
+			],
+			[
+				"anti",
+				"AnticSlabRegular"
+			],
+			[
+				"pathwat",
+				"PathwayGothicOne-Regular"
+			],
+			[
+				"pathway",
+				"PathwayGothicOne-Regular"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"text-",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 205.0,
+		"selected_items":
+		[
+			[
+				"listf",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"destroy",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"listall",
+				"Schemr: List all schemes"
+			],
+			[
+				"lista",
+				"Schemr: List all schemes"
+			],
+			[
+				"list all",
+				"Schemr: List all schemes"
+			],
+			[
+				"createpanebe",
+				"Origami: Create Pane Below"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"l",
+				"Schemr: List all schemes"
+			],
+			[
+				"addf",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"listfavo",
+				"Themr: List favorite themes"
+			],
+			[
+				"listfa",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"addc",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"listfav",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"lis",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"listaf",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"favor",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"head",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"ad",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"listal",
+				"Schemr: List all schemes"
+			],
+			[
+				"lifa",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"creatpaner",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"schemfa",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"destr",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"curresch",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"lisall",
+				"Schemr: List all schemes"
+			],
+			[
+				"schem",
+				"Schemr: List all schemes"
+			],
+			[
+				"createpa",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"des",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"list",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"panebel",
+				"Origami: Create Pane with File Below"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"panerigh",
+				"Origami: Create Pane with File on the Right"
+			],
+			[
+				"list fav",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"li",
+				"Schemr: List all schemes"
+			],
+			[
+				"ad	d	",
+				"Git: Add..."
+			],
+			[
+				"lsitall",
+				"Schemr: List all schemes"
+			],
+			[
+				"addcur",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"listalll",
+				"LiveStyle: Install WebKit extension"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"addfa",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"pref",
+				"Preferences: Settings - Default"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"addcurre",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"litall",
+				"Schemr: List all schemes"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"synta",
+				"Set Syntax: SCSS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"themr",
+				"Themr: Next theme"
+			],
+			[
+				"csscom",
+				"Sort via CSScomb"
+			],
+			[
+				"defaul",
+				"Preferences: Settings - Default"
+			],
+			[
+				"them",
+				"Themr: Previous theme"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"listall pa",
+				"Package Control: Install Package"
+			],
+			[
+				"lisatll",
+				"Schemr: List all schemes"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"th",
+				"Themr: List themes"
+			],
+			[
+				"sch",
+				"Schemr: List all schemes"
+			],
+			[
+				"lsital",
+				"Schemr: List all schemes"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"sc",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packaginsta",
+				"Package Control: Install Package"
+			],
+			[
+				"schemr",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"create",
+				"Origami: Create Pane with File on the Right"
+			],
+			[
+				"move",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"destc",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"destro",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"fa",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"addcru",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"addtof",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"addto",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"add to ",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"pane",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"paneri",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"deset",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"destroyp",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"pane bel",
+				"Origami: Create Pane Below"
+			],
+			[
+				"merge",
+				"Git: Merge Branch"
+			],
+			[
+				"branch",
+				"Git: New Branch"
+			],
+			[
+				"match",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"syntax jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"zf",
+				"Snippet: ZURB Foundation 5 Tabs"
+			],
+			[
+				"emmet r",
+				"Emmet: Remove Tag"
+			],
+			[
+				"dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"opanebe",
+				"Origami: Create Pane Below"
+			],
+			[
+				"sche",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"bra",
+				"Git: Change Branch"
+			],
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"bran",
+				"Git: Change Branch"
+			],
+			[
+				"compare",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"emmet",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"emmett",
+				"Emmet: Remove Tag"
+			],
+			[
+				"pane be",
+				"Origami: Create Pane Below"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"destroypane",
+				"Origami: Destroy Pane Above"
+			],
+			[
+				"pane right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"fileri",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"paner",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"fileright",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"panebl",
+				"Origami: Create Pane Below"
+			],
+			[
+				"gutt",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"gitgutt",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"paneright",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"desty",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"mat",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"gitl og",
+				"Git: Log All"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"gui",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"commit histo",
+				"Git: Commit history"
+			],
+			[
+				"brna",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"new b",
+				"Git: New Branch"
+			],
+			[
+				"new",
+				"Git: New Branch"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"linte",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"alig",
+				"Preferences: Alignment Key Bindings – User"
+			]
+		],
+		"width": 541.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Home/Desktop/test/LeadTrader-Demo-Site/index.html",
+		"/Users/Home/Desktop/test/FOUND_5/stylesheets/fonticons.css",
+		"/Users/Home/Desktop/test/FOUND_5/fonts/AvenirLTStd-Heavy/font.css",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/animate.css/source/fading_exits/fadeOut.css",
+		"/Users/Home/Desktop/test/FOUND_5/fonts/fonticons.css",
+		"/Users/Home/Desktop/test/FOUND_5/scss/_custom.scss",
+		"/Users/Home/Desktop/test/FOUND_5/config.rb",
+		"/Users/Home/Desktop/test/FOUND_5/stylesheets/custom_app.css",
+		"/Users/Home/Desktop/test/FOUND_5/stylesheets/grid.css",
+		"/Users/Home/Desktop/test/FOUND_5/scss/_settings.scss",
+		"/Users/Home/Desktop/test/FOUND_5/index.html",
+		"/Users/Home/Desktop/test/FOUND_5/fonts/fonticons/icons-reference.html",
+		"/Users/Home/Desktop/test/FOUND_5/fonts/fonticons/fonticons.css",
+		"/Users/Home/Desktop/test/FOUND_5/scss/app.scss",
+		"/Users/Home/Desktop/test/FOUND_5/stylesheets/app.css",
+		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/sprockets-modernizr/custom-protocol-handler.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/css/var/cssExpand.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/sprockets-modernizr/css-scrollbars.js",
+		"/Users/Home/Desktop/test/FOUND_5/js/vendor/scrollto.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/test/caniuse_files/style.css",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/animate.css/source/attention_seekers/swing.css",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/animate.css/source/attention_seekers/shake.css",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/css/curCSS.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/foundation/scss/normalize.scss",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/foundation/scss/foundation.scss",
+		"/Users/Home/Desktop/test/FOUND_5/js/vendor/cbpGridGallery.js",
+		"/Users/Home/Desktop/test/FOUND_5/js/vendor/imagesloaded.pkgd.min.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/test/index.html",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/animate.css/source/flippers/flipOutY.css",
+		"/Users/Home/Desktop/test/FOUND_5/js/vendor/masonry.pkgd.min.js",
+		"/Users/Home/Desktop/test/FOUND_5/img/polaroid.ai",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/sprockets-modernizr/pointerlock-api.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/foundation/scss/foundation/components/_panels.scss",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/animate.css/source/bouncing_entrances/bounceIn.css",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/animate.css/source/bouncing_entrances/bounceInLeft.css",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/foundation/scss/foundation/components/_range-slider.scss",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/sprockets-modernizr/img-apng.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/css-userselect.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/media/Modernizr 2 Logo.eps",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/media/Modernizr 2 Logo.ai",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/lists-reversed.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/modernizr.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/var/push.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/var/pnum.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/data/Data.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/css/swap.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/core/init.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/attributes/prop.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/attributes/attr.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/ajax/load.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/effects.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/mathml.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/var/arr.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/exports/amd.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/attributes/val.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/ajax/xhr.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/offset.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/jquery.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/dist/jquery.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/test/caniuse_files/ga.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/emoji.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/queue.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/outro.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/intro.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/event.js",
+		"/Users/Home/Desktop/test/FOUND_5/js/vendor/classie.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/json.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/dart.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/cors.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/wrap.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/data.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/core.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/ajax.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/css.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/bower.json",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/foundation/sache.json",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/foundation/bower.json",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/fastclick/bower.json",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/grunt.js",
+		"/Users/Home/Desktop/test/FOUND_5/codekit-config.json",
+		"/Users/Home/Desktop/test/FOUND_5/js/app.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/.bower.json",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery.cookie/.bower.json",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery-placeholder/.bower.json",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/.bower.json",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/foundation/.bower.json",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/fastclick/.bower.json",
+		"/Users/Home/Desktop/test/FOUND_5/bower.json",
+		"/Users/Home/Desktop/test/FOUND_5/.bowerrc",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/quota-management-api.js",
+		"/Users/Home/Desktop/Essentials/ScatteredPolaroidsGallery/css/demo.css",
+		"/Users/Home/Desktop/test/FOUND_5/stylesheets/color.css",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/css-backgroundrepeat.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/elem-output.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/css-vwunit.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/css-vhunit.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/css-resize.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/css/var/getStyles.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/selector-sizzle.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/selector-native.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/foundation/js/foundation/foundation.tab.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/script-defer.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/script-async.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/elem-track.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/battery-level.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/css/var/isHidden.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/test/js/lib/jsonselect.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/network-xhr2.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/img-webp.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/img-apng.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/elem-time.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/elem-ruby.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/css-mask.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/css-calc.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/traversing/findFilter.js",
+		"/Users/Home/Desktop/test/FOUND_5/js/vendor/modernizr.custom.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/test/js/lib/polyfills.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/pointerlock-api.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/fullscreen-api.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/file-api.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/dataview-api.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/contenteditable.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/battery-api.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery.cookie/jquery.cookie.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/var/strundefined.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/css/var/rnumnonpx.js"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"index.html",
+			"grid.css",
+			"index.html",
+			"grid.css",
+			"index.html",
+			"app.css",
+			"essentials.css",
+			"<open folders>",
+			"",
+			"foundation.min.css",
+			"custom.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fixed",
+			"fff",
+			"597385",
+			"b9514d",
+			"block",
+			"1px",
+			"2e3337",
+			";\n",
+			"section.slideshow nav.image-grid span,\n	section.slideshow nav.image-grid span.nav-close {\n		font-size: 1.8em;\n		padding: 0.3em;\n	}",
+			"img-",
+			"img",
+			"h5",
+			"3c4248",
+			"font",
+			"color",
+			"span",
+			"grid-sizer",
+			"50",
+			"img/",
+			"padding",
+			"h6",
+			"100%;",
+			"\n.",
+			"font-family",
+			"list-style",
+			"h4",
+			"h3",
+			"margin",
+			"top-b",
+			"scrolling",
+			",\n",
+			";\n",
+			"1rem",
+			";\n",
+			"color",
+			"border",
+			"100vh",
+			"90vh",
+			"2rem",
+			"scrollto anchor",
+			"4rem",
+			"solid",
+			"center",
+			"hover",
+			"body",
+			"h1",
+			"background",
+			"h1",
+			"list",
+			"large",
+			">\n",
+			"soon",
+			"\n<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+			"display",
+			"background",
+			"container",
+			"10",
+			"z-index",
+			"banner_header",
+			"z-index",
+			"scroll",
+			"h4",
+			"avenir",
+			"backgr",
+			"@import url(http://fonts.googleapis.com/css?family=Carrois+Gothic+SC);\n@import url(http://fonts.googleapis.com/css?family=Duru+Sans);\n@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);\n\n@font-face {\n    font-family: 'AvenirLTstd-Light';\n    src: url('font/AvenirLTStd-Light/avenirltstd-light.eot');\n    src: url('font/AvenirLTStd-Light/avenirltstd-light.eot') format('embedded-opentype'),\n         url('font/AvenirLTStd-Light/avenirltstd-light.woff') format('woff'),\n         url('font/AvenirLTStd-Light/avenirltstd-light.ttf') format('truetype'),\n         url('font/AvenirLTStd-Light/avenirltstd-light.svg#AvenirLTStd-Light') format('svg');}\n/* =====================================================\n          Palette:\n            DarkerTeal = 223442 ++\n            Pastel Blue = 6C8FA9 ++\n            Robin Red = FC4B46++\n            Neutral Gray/Blue = 53606A ++\n    \n            Gold = BDB88D +\n            DarkBlueGray = 272A2D  +\n            Orange Robin =  E5624B (more orange)\n            \n            Gray = 9EA3AA\n            Light Aqua = BAE5EF\n   ===================================================== */\nhtml, \nbody {\n  background: url(\"../img/chairlift.png\") no-repeat center center fixed;\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: cover;\n  }  \n\nh1, h2, h3, h4, h5, h6 {\n  color:#b4d5ee;\n}\n\nbody p {\n  color: #6c8fa9;\n}\n/* =====================================================\n                          Header/banner Styles  \n   ===================================================== */\nimg.dabble {\n  /*max-height: 3rem; */\n  /*max-width: 10rem;*/\n  text-align: center;\n  vertical-align: bottom;\n}\n\n#banner_header {\n  padding-top: 20rem; /* auto 10rem*/\n  text-align: center;\n  letter-spacing: .32rem;\n  /*min-height: 100vh;*/\n}\n\n#banner_header.row h1 {\n  /*font-size:  4rem;*/\n  /*font-family: 'Carrois Gothic SC', Arial, sans-serif;*/\n  /*font-weight: 600;*/\n  color: #53606A;\n    /*text-transform: uppercase;*/\n  }\n\nh4.show-for-medium-up {\n  color: #53606A; \n  letter-spacing: normal; \n}\n\n#banner-drops {\n  margin: 4rem auto 2em;\n}\n/* ====================================================\n                                                    Navigation Animated \n   ===================================================== */\n#codrops.container {\n  min-height: 100vh;\n}\n\n#codrops.cbp-af-header {\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100%;\n  background: #272A2D;\n  opacity: .90;\n  z-index: 10000;\n  height: 180px; /*230*/\n  overflow: hidden;\n  -webkit-transition: height 0.4s;\n  -moz-transition: height 0.4s;\n  transition: height 0.4s; }\n\n#codrops.cbp-af-header .cbp-af-inner {\n  width: 90%;\n  max-width: 69em;\n  margin: 0 auto;\n  padding: 0 1.875em;\n}\n\n#codrops.cbp-af-header h1,\n#codrops.cbp-af-header nav {\n  display: inline-block;\n  position: relative;\n  color: #f9f9f9;\n}\n\n /* We just have one-lined elements, so we'll center the elements with the line-height set to the height of the header */\n#codrops.cbp-af-header h1,\n#codrops.cbp-af-header nav a {\n  line-height: 11.25rem;  /*180px*/\n}\n\n#codrops.cbp-af-header h1 {\n  text-transform: none;\n  color: #9EA3AA;\n  letter-spacing: 4px;\n  /*font-size: 3em;  /*4*/\n  margin: 0;\n  float: left;\n}\n#codrops.cbp-af-header img {\n  max-height: 64px;\n  padding-bottom:  12px;\n}\n#codrops.cbp-af-header nav {\n  float: right;\n}\n\n#codrops.cbp-af-header nav a {\n  color: #9EA3AA;\n  font-weight: normal;\n  margin: 0 0 0 20px;\n  /*font-size: 1.2em;*/\n}\n\n#codrops.cbp-af-header nav a:hover {\n  color: #E74F4A;\n}\n\n/* Transitions and class for reduced height */\n#codrops.cbp-af-header h1,\n#codrops.cbp-af-header nav a {\n  -webkit-transition: all 0.3s;\n  -moz-transition: all 0.3s;\n  transition: all 0.3s;\n}\n\n#codrops.cbp-af-header.cbp-af-header-shrink {\n  height: 90px;\n}\n\n#codrops.cbp-af-header.cbp-af-header-shrink h1,\n#codrops.cbp-af-header.cbp-af-header-shrink nav a {\n  line-height: 90px;\n}\n\n#codrops.cbp-af-header.cbp-af-header-shrink h1 {\n  font-size: 1.6rem;\n}\n\n/* Example Media Queries */\n@media screen and (max-width: 55em) {\n  \n  #codrops.cbp-af-header .cbp-af-inner {\n    width: 100%;\n  }\n\n  #codrops.cbp-af-header h1,\n  #codrops.cbp-af-header nav {\n    display: block;\n    margin: 0 auto;\n    text-align: center;\n    float: none;\n  }\n\n  #codrops.cbp-af-header h1,\n  #codrops.cbp-af-header nav a {\n    line-height: 90px; /* 115px */\n  }\n\n  #codrops.cbp-af-header nav a {\n    margin: 0 10px;\n  }\n\n  #codrops.cbp-af-header.cbp-af-header-shrink h1,\n  #codrops.cbp-af-header.cbp-af-header-shrink nav a {\n    line-height: 20px;\n  }\n\n  #codrops.cbp-af-header.cbp-af-header-shrink h1 {\n    /*font-size: 2em;*/\n  }\n\n  #codrops.cbp-af-header.cbp-af-header-shrink nav a {\n    /*font-size: 1em;*/\n  }\n}\n\n@media screen and (max-width: 32.25em) {\n  #codrops.cbp-af-header nav a {\n    /*font-size: 1rem;*/\n  }\n}\n\n@media screen and (max-width: 24em) {\n  #codrops.cbp-af-header nav a,\n  #codrops.cbp-af-header.cbp-af-header-shrink nav a {\n    line-height: 1;\n  }\n}\n/* =====================================================\n                                          Caption Hover Events\n   ===================================================== */\n.grid {\n    padding:  1.25rem 1.25rem 6.25rem 1.25rem;  /*20 20 100 20px */  \n    max-width: 1300px;\n    list-style: none;\n    text-align: center;\n}\n \n.grid li {\n    display: inline-block;\n    width: 100%;  /*width: 440px;*/\n    margin: 0;\n    padding: 1rem 1rem 1rem 1rem; /*6rem*/\n    /*text-align: left;*/\n    position: relative;\n}\n\n.grid figure {\n    margin: 0;\n    position: relative;\n}\n\n#myskillsets.small-12.columns h2 {\n  text-transform: uppercase;\n  text-align: center;\n  color: #AABBCC;\n  letter-spacing: .32rem;\n}\n\n#myskillsets h2 {\n  padding-top: 8rem;\n}\n\nh5.skillsets {\n  text-align: center;\n  color: #14AACC;\n  margin-top: 5rem;\n}\n\n.grid figure img {\n  /*max-width: 100%;*/\n  padding: 2rem;\n  margin: 2rem auto;\n  display: block;\n  position: relative;\n}\n\n.grid figcaption {\n  position: absolute;\n  top: 0;\n  left: 0;\n  padding: 1.25rem; /*20px*/\n  background: #BAE5EF;/*53606A*/\n  color: #264A60;\n}\n\n.grid figcaption h6 {\n  margin: 0;\n  color: #9EA3AA;\n  padding: 0;\n  text-align: center;\n}\n\n/*.grid figcaption span:before {content: 'by '; }*/\n\n.grid figcaption a {\n  text-align: justify; /*center*/\n  /*padding: 5px 10px;*/\n  border-radius: 2px;\n  display: inline-block;\n  background: #53606A;\n  color: #fff;\n}\n\n/* Caption Style 3 */\n.cs-style-3 figure {\n  overflow: hidden;\n}\n\n.cs-style-3 figure img {\n  -webkit-transition: -webkit-transform 0.4s;\n  -moz-transition: -moz-transform 0.4s;\n  transition: transform 0.4s;\n}\n\n.no-touch .cs-style-3 figure:hover img,\n.cs-style-3 figure.cs-hover img {\n  -webkit-transform: translateY(-50px);\n  -moz-transform: translateY(-50px);\n  -ms-transform: translateY(-50px);\n  transform: translateY(-50px);\n}\n\n.cs-style-3 figcaption {\n  height: 3.75rem; /*60px*/\n  width: 100%;\n  top: auto;\n  bottom: 0;\n  opacity: 0;\n  -webkit-transform: translateY(100%);\n  -moz-transform: translateY(100%);\n  -ms-transform: translateY(100%);\n  transform: translateY(100%);\n  -webkit-transition: -webkit-transform 0.4s, opacity 0.1s 0.3s;\n  -moz-transition: -moz-transform 0.4s, opacity 0.1s 0.3s;\n  transition: transform 0.4s, opacity 0.1s 0.3s;\n}\n\n.no-touch .cs-style-3 figure:hover figcaption,\n.cs-style-3 figure.cs-hover figcaption {\n  opacity: 1;\n  -webkit-transform: translateY(0px);\n  -moz-transform: translateY(0px);\n  -ms-transform: translateY(0px);\n  transform: translateY(0px);\n  -webkit-transition: -webkit-transform 0.4s, opacity 0.1s;\n  -moz-transition: -moz-transform 0.4s, opacity 0.1s;\n  transition: transform 0.4s, opacity 0.1s;\n}\n\n.cs-style-3 figcaption a {\n  position: absolute;\n  bottom: 1.25rem; \n  right: 1.25rem; \n}\n\n@media screen and (max-width: 31.5em) {\n  .grid {\n    padding: .625rem;\n  }\n\n/* =====================================================\n                                                          Content Styles  \n   ===================================================== \n\n#icn h5 {\n  /*text-align: center*/;\n}\n\n#icn img {\n  /*padding-left: 6.5rem*/;\n}\n\n#low-content.contain-to-grid {\n  background-color: #f7f7f7;\n  /*padding: 2rem auto*/;\n}\n\n#low-content h4 {\n  /*color: #53606A;*/}\n\nimg.iconbar {\n  max-height: 160px;    }\n\n/* =====================================================\n                                                          Offcanvas Styles  \n   ===================================================== */\n\n\n\n/* =====================================================\n                                                            Footer Styles  \n   ===================================================== */\n\n\n\n\n/* =====================================================\n                                                           Creative Link Styles  \n   ===================================================== */",
+			"backg",
+			"vertical",
+			"verticalal",
+			"position",
+			"h5",
+			"font-size",
+			">\n",
+			"color: #fff",
+			"block",
+			"Right",
+			"skillsets",
+			"h1,h2",
+			"#22",
+			"#",
+			"footer",
+			"container",
+			"container demo-3",
+			"container",
+			"display",
+			"ul",
+			"small",
+			"large",
+			"font",
+			"ban",
+			"helvetica",
+			"font-family",
+			"12rem",
+			"space",
+			"img",
+			"font-family",
+			"font-fa",
+			"gafata",
+			"to",
+			"background",
+			"{",
+			"side bar",
+			"side",
+			"\"sans-serif;",
+			", , , arial, ",
+			"sintony",
+			"\"\"",
+			"helvetica",
+			"helvetica neue",
+			"helvetica",
+			"button",
+			"none",
+			"bbb",
+			"3B4248",
+			"fc5959",
+			"fc4949",
+			"large",
+			"content",
+			"/div",
+			"inner-wrap",
+			"html",
+			"url",
+			"img",
+			", ",
+			"welcom",
+			"]\"",
+			"top-bar",
+			"class",
+			"li"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"h6",
+			"grid",
+			"h5",
+			"h6",
+			"h4",
+			"contain-to-grid",
+			"header_container",
+			"banner",
+			"AvenirLTstd-Light",
+			"\", sans-serif;",
+			"",
+			"Sintony",
+			"393F43",
+			"E74F4A",
+			"fc5959",
+			"C3E2ED",
+			"#3B4248",
+			"91BDD6",
+			"p"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"project": "home.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gr",
+				"stylesheets/grid.css"
+			],
+			[
+				"fonti",
+				"fonts/fonticons/fonticons.css"
+			],
+			[
+				"font",
+				"fonts/fonticons.css"
+			],
+			[
+				"custom",
+				"stylesheets/custom_app.css"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"app.sc",
+				"scss/app.scss"
+			],
+			[
+				"app",
+				"stylesheets/app.css"
+			],
+			[
+				"_cu",
+				"scss/_custom.scss"
+			],
+			[
+				"_",
+				"scss/_settings.scss"
+			],
+			[
+				"_s",
+				"scss/_settings.scss"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"gri",
+				"stylesheets/grid.css"
+			],
+			[
+				"cust",
+				"scss/_custom.scss"
+			],
+			[
+				"imag",
+				"js/vendor/imagesloaded.pkgd.min.js"
+			],
+			[
+				"cbp",
+				"js/vendor/cbpGridGallery.js"
+			],
+			[
+				"grid",
+				"stylesheets/grid.css"
+			],
+			[
+				"mas",
+				"js/vendor/masonry.pkgd.min.js"
+			],
+			[
+				"_set",
+				"scss/_settings.scss"
+			],
+			[
+				"mason",
+				"js/vendor/masonry.pkgd.min.js"
+			],
+			[
+				"_se",
+				"scss/_settings.scss"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"image",
+				"js/vendor/imagesloaded.pkgd.min.js"
+			],
+			[
+				"cb",
+				"js/vendor/cbpGridGallery.js"
+			],
+			[
+				"masonr",
+				"js/vendor/masonry.pkgd.min.js"
+			],
+			[
+				"app.",
+				"stylesheets/app.css"
+			],
+			[
+				"co",
+				"config.rb"
+			],
+			[
+				"confi",
+				"config.rb"
+			],
+			[
+				"scss",
+				"scss/app.scss"
+			],
+			[
+				"app.css",
+				"stylesheets/app.css"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"style",
+				"bower_components/modernizr/test/caniuse_files/style.css"
+			],
+			[
+				"ess",
+				"essentials.html"
+			],
+			[
+				"html",
+				"essentials.html"
+			],
+			[
+				"ht",
+				"FOUND_5/index.html"
+			],
+			[
+				"appcss",
+				"stylesheets/app.css"
+			],
+			[
+				"min",
+				"css/foundation.min.css"
+			],
+			[
+				"norma",
+				"css/normalize.css"
+			],
+			[
+				"magel",
+				"js/foundation/foundation.magellan.js"
+			],
+			[
+				"min.",
+				"css/foundation.min.css"
+			],
+			[
+				"css",
+				"css/essentials.css"
+			],
+			[
+				"resu",
+				"resume.html"
+			],
+			[
+				"res",
+				"resume.html"
+			],
+			[
+				"",
+				"essentials.html"
+			],
+			[
+				"es",
+				"css/essentials.css"
+			],
+			[
+				"cus",
+				"custom.html"
+			],
+			[
+				"custo",
+				"css/custom.css"
+			],
+			[
+				"js",
+				"js/cbpAnimatedHeader.js"
+			],
+			[
+				"normal",
+				"css/normalize.css"
+			],
+			[
+				"min.css",
+				"css/foundation.min.css"
+			],
+			[
+				"mode",
+				"js/vendor/modernizr.min.js"
+			],
+			[
+				"min.c",
+				"css/foundation.min.css"
+			],
+			[
+				"min.js",
+				"js/foundation.min.js"
+			],
+			[
+				"temp",
+				"temp.html"
+			],
+			[
+				"cu",
+				"custom.html"
+			],
+			[
+				"custom.cs",
+				"css/custom.css"
+			],
+			[
+				"tests",
+				"tests.html"
+			],
+			[
+				"cbh",
+				"js/cbpAnimatedHeader.js"
+			],
+			[
+				"reveal",
+				"js/foundation/foundation.reveal.js"
+			],
+			[
+				"moderni",
+				"js/vendor/modernizr.js"
+			],
+			[
+				"default",
+				"css/default.css"
+			],
+			[
+				"test",
+				"tests.html"
+			],
+			[
+				"reve",
+				"js/foundation/foundation.reveal.js"
+			],
+			[
+				"found",
+				"css/foundation.css"
+			],
+			[
+				"fou",
+				"css/foundation.css"
+			],
+			[
+				"f",
+				"css/foundation.css"
+			],
+			[
+				"c",
+				"css/custom.css"
+			],
+			[
+				"j",
+				"Fullscreen_Overlay/js/jquery.js"
+			],
+			[
+				"st",
+				"Fullscreen_Overlay/css/style8.css"
+			],
+			[
+				"norm",
+				"Fullscreen_Overlay/css/normalize.css"
+			],
+			[
+				"gridp",
+				"gridpak/gridpak.scss"
+			],
+			[
+				"dabble",
+				"Fullscreen_Overlay/css/dabble.css"
+			],
+			[
+				"dabb",
+				"Fullscreen_Overlay/css/dabble.css"
+			],
+			[
+				"n",
+				"css/normalize.css"
+			],
+			[
+				"dabbl",
+				"css/dabble.css"
+			],
+			[
+				"demo.css",
+				"css/demo.css"
+			],
+			[
+				"sty",
+				"css/style8.css"
+			],
+			[
+				"nor",
+				"css/normalize.css"
+			],
+			[
+				"dab",
+				"css/dabble.css"
+			],
+			[
+				".js",
+				"js/demo1.js"
+			],
+			[
+				"ditto",
+				"dittotrade.html"
+			],
+			[
+				"index.",
+				"css/layouts/index.css"
+			],
+			[
+				"pricing",
+				"pricing.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Essentials/ScatteredPolaroidsGallery/polaroid.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
