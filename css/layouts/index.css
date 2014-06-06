@@ -21,7 +21,7 @@ Add transition to containers so they can push in and out.
 }
 
 /*
-This ish
+This is the parent `<div>` that contains the menu and the content area.
 */
 #layout {
     padding-left: 150px; /* left col width "#menu" */
@@ -593,7 +593,7 @@ small screens.
     font-size: 90%;
     margin: 2em 0;
     text-align: center;
-    line-height: 1.4em;
+    line-height: 2em;
     overflow: visible; /*to make ths where the title is really long work*/
     padding: 0.3em 2em; /* cell padding */
 }
