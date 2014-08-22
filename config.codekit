@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "16877",
+"creatorBuild": "17625",
 "files": {
 	"\/aboutus.html": {
 		"fileType": 8192,
@@ -8,6 +8,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/aboutus.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/blog.html": {
@@ -16,6 +17,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/blog.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/contactus.html": {
@@ -24,6 +26,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/contactus.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/css\/layouts (aesim2@gmail.com)\/index.css": {
@@ -32,6 +35,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/layouts (aesim2@gmail.com)\/index.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/css\/layouts\/index.css": {
@@ -40,6 +44,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/layouts\/index.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/disclaimer.html": {
@@ -48,6 +53,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/disclaimer.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/dittotrade.html": {
@@ -56,6 +62,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/dittotrade.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Gruntfile.js": {
@@ -64,6 +71,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Gruntfile.js",
 		"outputAbbreviatedPath": "\/min\/Gruntfile-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -74,6 +82,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/home.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/banner_Plain.png": {
@@ -83,6 +92,7 @@
 		"initialSize": 6372,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/banner_Plain.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/banner_Plain.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -93,6 +103,7 @@
 		"initialSize": 3367,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/BB_header_BB_header.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/BB_header_BB_header.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -103,6 +114,7 @@
 		"initialSize": 4097,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull&bear logo_bull+bear.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull&bear logo_bull+bear.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -113,6 +125,7 @@
 		"initialSize": 6968,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull&bear_large_bull+bear.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull&bear_large_bull+bear.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -123,6 +136,7 @@
 		"initialSize": 6790,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull&bear_logo_large_bull+bear.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull&bear_logo_large_bull+bear.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -133,6 +147,7 @@
 		"initialSize": 4178,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull+bear logo_bear button.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull+bear logo_bear button.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -143,6 +158,7 @@
 		"initialSize": 8086,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull+bear logo_bear.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull+bear logo_bear.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -153,6 +169,7 @@
 		"initialSize": 3324,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull+bear logo_bull button.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull+bear logo_bull button.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -163,6 +180,7 @@
 		"initialSize": 3590,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull+bear logo_bull+bear.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull+bear logo_bull+bear.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -173,6 +191,7 @@
 		"initialSize": 6053,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull+bear logo_bull.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull+bear logo_bull.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -183,6 +202,7 @@
 		"initialSize": 1847,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull+bear logo_twoface.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/bull+bear logo_twoface.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -193,6 +213,7 @@
 		"initialSize": 8368,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/howto_How_To.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/howto_How_To.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -203,6 +224,7 @@
 		"initialSize": 4807,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/Images_bizdev_DataDriven2.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/Images_bizdev_DataDriven2.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -213,6 +235,7 @@
 		"initialSize": 8363,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/Images_bizdev_How To.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/Images_bizdev_How To.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -222,6 +245,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/marketing.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/stocktober.JPG": {
@@ -231,6 +255,7 @@
 		"initialSize": 829524,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/stocktober.JPG",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/stocktober.JPG",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -241,6 +266,7 @@
 		"initialSize": 567538,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/stocktober2.jpg",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/stocktober2.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -251,6 +277,7 @@
 		"initialSize": 392438,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/wallstreet-03.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/wallstreet-03.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -261,6 +288,7 @@
 		"initialSize": 9303,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/yfinance-avatar.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/yfinance-avatar.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -271,6 +299,7 @@
 		"initialSize": 9608,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/ynews-avatar.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/ynews-avatar.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -281,6 +310,7 @@
 		"initialSize": 7236,
 		"inputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/yui-avatar.png",
 		"outputAbbreviatedPath": "\/images\/common-boxsync-tmp-603fb192ab3eadde9192893ed35437\/yui-avatar.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -291,6 +321,7 @@
 		"initialSize": 125021,
 		"inputAbbreviatedPath": "\/images\/common\/9086701425_fda3024927.jpg",
 		"outputAbbreviatedPath": "\/images\/common\/9086701425_fda3024927.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -301,6 +332,7 @@
 		"initialSize": 6372,
 		"inputAbbreviatedPath": "\/images\/common\/banner_Plain.png",
 		"outputAbbreviatedPath": "\/images\/common\/banner_Plain.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -311,6 +343,7 @@
 		"initialSize": 3367,
 		"inputAbbreviatedPath": "\/images\/common\/BB_header_BB_header.png",
 		"outputAbbreviatedPath": "\/images\/common\/BB_header_BB_header.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -321,6 +354,7 @@
 		"initialSize": 4097,
 		"inputAbbreviatedPath": "\/images\/common\/bull&bear logo_bull+bear.png",
 		"outputAbbreviatedPath": "\/images\/common\/bull&bear logo_bull+bear.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -331,6 +365,7 @@
 		"initialSize": 6968,
 		"inputAbbreviatedPath": "\/images\/common\/bull&bear_large_bull+bear.png",
 		"outputAbbreviatedPath": "\/images\/common\/bull&bear_large_bull+bear.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -341,6 +376,7 @@
 		"initialSize": 6790,
 		"inputAbbreviatedPath": "\/images\/common\/bull&bear_logo_large_bull+bear.png",
 		"outputAbbreviatedPath": "\/images\/common\/bull&bear_logo_large_bull+bear.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -351,6 +387,7 @@
 		"initialSize": 4178,
 		"inputAbbreviatedPath": "\/images\/common\/bull+bear logo_bear button.png",
 		"outputAbbreviatedPath": "\/images\/common\/bull+bear logo_bear button.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -361,6 +398,7 @@
 		"initialSize": 8086,
 		"inputAbbreviatedPath": "\/images\/common\/bull+bear logo_bear.png",
 		"outputAbbreviatedPath": "\/images\/common\/bull+bear logo_bear.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -371,6 +409,7 @@
 		"initialSize": 3324,
 		"inputAbbreviatedPath": "\/images\/common\/bull+bear logo_bull button.png",
 		"outputAbbreviatedPath": "\/images\/common\/bull+bear logo_bull button.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -381,6 +420,7 @@
 		"initialSize": 3590,
 		"inputAbbreviatedPath": "\/images\/common\/bull+bear logo_bull+bear.png",
 		"outputAbbreviatedPath": "\/images\/common\/bull+bear logo_bull+bear.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -391,6 +431,7 @@
 		"initialSize": 6053,
 		"inputAbbreviatedPath": "\/images\/common\/bull+bear logo_bull.png",
 		"outputAbbreviatedPath": "\/images\/common\/bull+bear logo_bull.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -401,6 +442,7 @@
 		"initialSize": 1847,
 		"inputAbbreviatedPath": "\/images\/common\/bull+bear logo_twoface.png",
 		"outputAbbreviatedPath": "\/images\/common\/bull+bear logo_twoface.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -411,6 +453,7 @@
 		"initialSize": 411322,
 		"inputAbbreviatedPath": "\/images\/common\/Bull-Bear-Markets.jpg",
 		"outputAbbreviatedPath": "\/images\/common\/Bull-Bear-Markets.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -421,6 +464,7 @@
 		"initialSize": 37790,
 		"inputAbbreviatedPath": "\/images\/common\/bulls-vs-bears.jpg",
 		"outputAbbreviatedPath": "\/images\/common\/bulls-vs-bears.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -431,6 +475,7 @@
 		"initialSize": 45324,
 		"inputAbbreviatedPath": "\/images\/common\/government-control-stock-market-crash-1 (1).jpg",
 		"outputAbbreviatedPath": "\/images\/common\/government-control-stock-market-crash-1 (1).jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -441,6 +486,7 @@
 		"initialSize": 45324,
 		"inputAbbreviatedPath": "\/images\/common\/government-control-stock-market-crash-1.jpg",
 		"outputAbbreviatedPath": "\/images\/common\/government-control-stock-market-crash-1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -451,6 +497,7 @@
 		"initialSize": 8368,
 		"inputAbbreviatedPath": "\/images\/common\/howto_How_To.png",
 		"outputAbbreviatedPath": "\/images\/common\/howto_How_To.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -461,6 +508,7 @@
 		"initialSize": 4807,
 		"inputAbbreviatedPath": "\/images\/common\/Images_bizdev_DataDriven2.png",
 		"outputAbbreviatedPath": "\/images\/common\/Images_bizdev_DataDriven2.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -471,6 +519,7 @@
 		"initialSize": 8363,
 		"inputAbbreviatedPath": "\/images\/common\/Images_bizdev_How To.png",
 		"outputAbbreviatedPath": "\/images\/common\/Images_bizdev_How To.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -481,6 +530,7 @@
 		"initialSize": 247243,
 		"inputAbbreviatedPath": "\/images\/common\/stock market bull.jpg",
 		"outputAbbreviatedPath": "\/images\/common\/stock market bull.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -491,6 +541,7 @@
 		"initialSize": 555041,
 		"inputAbbreviatedPath": "\/images\/common\/stock-market-crash-1929jpg-65aa586f4a99f051.jpg",
 		"outputAbbreviatedPath": "\/images\/common\/stock-market-crash-1929jpg-65aa586f4a99f051.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -501,6 +552,7 @@
 		"initialSize": 829524,
 		"inputAbbreviatedPath": "\/images\/common\/stocktober.JPG",
 		"outputAbbreviatedPath": "\/images\/common\/stocktober.JPG",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -511,6 +563,7 @@
 		"initialSize": 567538,
 		"inputAbbreviatedPath": "\/images\/common\/stocktober2.jpg",
 		"outputAbbreviatedPath": "\/images\/common\/stocktober2.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -521,6 +574,7 @@
 		"initialSize": 392438,
 		"inputAbbreviatedPath": "\/images\/common\/wallstreet-03.png",
 		"outputAbbreviatedPath": "\/images\/common\/wallstreet-03.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -531,6 +585,7 @@
 		"initialSize": 9303,
 		"inputAbbreviatedPath": "\/images\/common\/yfinance-avatar.png",
 		"outputAbbreviatedPath": "\/images\/common\/yfinance-avatar.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -541,6 +596,7 @@
 		"initialSize": 9608,
 		"inputAbbreviatedPath": "\/images\/common\/ynews-avatar.png",
 		"outputAbbreviatedPath": "\/images\/common\/ynews-avatar.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -551,6 +607,7 @@
 		"initialSize": 7236,
 		"inputAbbreviatedPath": "\/images\/common\/yui-avatar.png",
 		"outputAbbreviatedPath": "\/images\/common\/yui-avatar.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -561,6 +618,7 @@
 		"initialSize": 112,
 		"inputAbbreviatedPath": "\/images\/favicon_01.png",
 		"outputAbbreviatedPath": "\/images\/favicon_01.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -571,6 +629,7 @@
 		"initialSize": 677,
 		"inputAbbreviatedPath": "\/images\/favicon_02.png",
 		"outputAbbreviatedPath": "\/images\/favicon_02.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -581,6 +640,7 @@
 		"initialSize": 605,
 		"inputAbbreviatedPath": "\/images\/favicon_03.png",
 		"outputAbbreviatedPath": "\/images\/favicon_03.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -591,6 +651,7 @@
 		"initialSize": 118,
 		"inputAbbreviatedPath": "\/images\/favicon_04.png",
 		"outputAbbreviatedPath": "\/images\/favicon_04.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -601,16 +662,9 @@
 		"initialSize": 112,
 		"inputAbbreviatedPath": "\/images\/favicon_05.png",
 		"outputAbbreviatedPath": "\/images\/favicon_05.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
-		},
-	"\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsSetByUser": 0
 		},
 	"\/js\/ui.js": {
 		"fileType": 64,
@@ -618,6 +672,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/ui.js",
 		"outputAbbreviatedPath": "\/js\/min\/ui-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -631,6 +686,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/LICENSE.md",
 		"outputAbbreviatedPath": "\/LICENSE.html",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/marketing.html": {
@@ -639,6 +695,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/marketing.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/performance.html": {
@@ -647,6 +704,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/performance.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pricing.html": {
@@ -655,6 +713,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pricing.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/README.md": {
@@ -666,6 +725,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/README.md",
 		"outputAbbreviatedPath": "\/README.html",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/tasks\/bower_install.js": {
@@ -674,6 +734,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/tasks\/bower_install.js",
 		"outputAbbreviatedPath": "\/tasks\/min\/bower_install-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -684,6 +745,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/tasks\/grid_units.js",
 		"outputAbbreviatedPath": "\/tasks\/min\/grid_units-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -694,6 +756,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/tasks\/license.js",
 		"outputAbbreviatedPath": "\/tasks\/min\/license-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -704,6 +767,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/tasks\/suppress.js",
 		"outputAbbreviatedPath": "\/tasks\/min\/suppress-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -711,7 +775,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "MacAir",
+"lastSavedByUser": "Sim",
 "manualImportLinks": {
 	},
 "projectAttributes": {
@@ -727,6 +791,8 @@
 	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
 	"autoSyncProjectSettingsFile": 1,
 	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
 	"coffeeAutoOutputPathRelativePath": "",
 	"coffeeAutoOutputPathReplace1": "",
 	"coffeeAutoOutputPathReplace2": "",
@@ -777,12 +843,16 @@
 			"active": 0,
 			"flagValue": 3
 			},
-		"no-unnecessary_fat_arrows": {
+		"no_backticks": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"no_backticks": {
+		"no_debugger": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_empty_param_list": {
@@ -794,6 +864,10 @@
 			"flagValue": -1
 			},
 		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -821,6 +895,14 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"non_empty_constructor_needs_parens": {
 			"active": 0,
 			"flagValue": -1
@@ -836,6 +918,8 @@
 	"externalServerAddress": "http:\/\/localhost:8888",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
 	"hamlAutoOutputPathRelativePath": "",
 	"hamlAutoOutputPathReplace1": "",
 	"hamlAutoOutputPathReplace2": "",
@@ -847,19 +931,22 @@
 	"hamlUseCDATA": 0,
 	"hamlUseDoubleQuotes": 0,
 	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
 	"jadeAutoOutputPathRelativePath": "",
 	"jadeAutoOutputPathReplace1": "",
 	"jadeAutoOutputPathReplace2": "",
 	"jadeAutoOutputPathStyle": 0,
 	"jadeCompileDebug": 1,
 	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
 	"javascriptAutoOutputPathRelativePath": "\/min",
 	"javascriptAutoOutputPathReplace1": "",
 	"javascriptAutoOutputPathReplace2": "",
 	"javascriptAutoOutputPathStyle": 2,
 	"javascriptCreateSourceMap": 1,
 	"javascriptOutputStyle": 1,
-	"javascriptOutputSuffix": "-ck",
 	"javascriptSyntaxCheckerStyle": 1,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
@@ -936,10 +1023,6 @@
 			"flagValue": -1
 			},
 		"funcscope": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"gcl": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1055,10 +1138,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"onevar": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"phantom": {
 			"active": 0,
 			"flagValue": -1
@@ -1095,10 +1174,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"smarttabs": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"strict": {
 			"active": 0,
 			"flagValue": -1
@@ -1111,10 +1186,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"trailing": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"typed": {
 			"active": 0,
 			"flagValue": -1
@@ -1125,10 +1196,6 @@
 			},
 		"unused": {
 			"active": 1,
-			"flagValue": -1
-			},
-		"white": {
-			"active": 0,
 			"flagValue": -1
 			},
 		"withstmt": {
@@ -1254,11 +1321,15 @@
 			"flagValue": -1
 			}
 		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
 	"kitAutoOutputPathRelativePath": "",
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
 	"kitAutoOutputPathStyle": 0,
 	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
 	"lessAutoOutputPathRelativePath": "..\/css",
 	"lessAutoOutputPathReplace1": "less",
 	"lessAutoOutputPathReplace2": "css",
@@ -1271,6 +1342,8 @@
 	"lessStrictImports": 0,
 	"lessStrictMath": 0,
 	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
 	"markdownAutoOutputPathRelativePath": "",
 	"markdownAutoOutputPathReplace1": "",
 	"markdownAutoOutputPathReplace2": "",
@@ -1279,6 +1352,8 @@
 	"markdownEnableSmartyPants": 1,
 	"markdownExpandTabs": 1,
 	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
 	"sassAutoOutputPathRelativePath": "..\/css",
 	"sassAutoOutputPathReplace1": "sass",
 	"sassAutoOutputPathReplace2": "css",
@@ -1291,6 +1366,8 @@
 	"shouldRunAutoprefixer": 0,
 	"shouldRunBless": 0,
 	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",
 	"slimAutoOutputPathReplace1": "",
 	"slimAutoOutputPathReplace2": "",
@@ -1299,6 +1376,8 @@
 	"slimLogicless": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
 	"stylusAutoOutputPathRelativePath": "..\/css",
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
@@ -1307,6 +1386,8 @@
 	"stylusImportCSS": 0,
 	"stylusOutputStyle": 0,
 	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
 	"typescriptAutoOutputPathRelativePath": "\/js",
 	"typescriptAutoOutputPathReplace1": "",
 	"typescriptAutoOutputPathReplace2": "",

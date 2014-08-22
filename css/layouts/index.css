@@ -640,7 +640,7 @@ small screens.
 @media (max-width: 767px) {
 
     .header {
-        text-align: left;
+        text-align: center;
     }
 
     /*
